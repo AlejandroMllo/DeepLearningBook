@@ -1,24 +1,24 @@
 Deep Learning
-
 AlejandroMllo
 
-This document serves as a very brief summary of each chapter in the book Deep Learning [1].
+This document serves as a very brief summary of the topics covered in each chapter of the book Deep Learning [1].
+
 Disclaimer: This document is completely extracted from [1], the author does not attribute any ownership over the material.
 
 1 Introduction
-  • Deep Learning (DL) learns complicated concepts by building them out of simpler ones. DL is the study of models composed of either learned functions or learned concepts.
-  • Data Representation is key when finding patterns.
-  • Many AI tasks can be solved by designing the right set of features to extract.
-  • Representation Learning: discovers the mapping from representation to output and the represen- tation itself.
-    – Makes use of an Autoencoder which is a combination of:
-      ∗ Encoder: Converts the input data into a different representation.
-      ∗ Decoder: Converts the new representation back into the original format.
-  • Factors: sources of influence in the model.
-  • Depth, in a DL model, enables the computer to learn a multistep computer program (not all the information in a layer’s activations necessarily encodes factors that explain the input). There are two ways to measure it:
-    – Based on the number of sequential instructions, or
-    – Based on the depth of the graph describing how concepts are related to each other (used by
-      deep probabilistic models).
-  • DL is not an attempt to simulate the brain. It borrows ideas from different fields (one of which is neuroscience).
-  
+• Deep Learning (DL) learns complicated concepts by building them out of simpler ones. DL is the study of models composed of either learned functions or learned concepts.
+• Data Representation is key when finding patterns.
+• Many AI tasks can be solved by designing the right set of features to extract.
+• Representation Learning: discovers the mapping from representation to output and the represen- tation itself.
+  – Makes use of an Autoencoder which is a combination of:
+    ∗ Encoder: Converts the input data into a different representation.
+    ∗ Decoder: Converts the new representation back into the original format.
+• Factors: sources of influence in the model.
+• Depth, in a DL model, enables the computer to learn a multistep computer program (not all the information in a layer’s activations necessarily encodes factors that explain the input). There are two ways to measure it:
+  – Based on the number of sequential instructions, or
+  – Based on the depth of the graph describing how concepts are related to each other (used by
+    deep probabilistic models).
+• DL is not an attempt to simulate the brain. It borrows ideas from different fields (one of which is neuroscience).
+
 References
 [1] Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 2016. http://www. deeplearningbook.org.
