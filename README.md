@@ -1,4 +1,4 @@
-# DeepLearningBookSummary
+## Deep Learning Book Summary
 
 This repository stores PDF summaries of the chapters from the book Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
